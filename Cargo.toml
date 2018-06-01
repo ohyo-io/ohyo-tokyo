@@ -1,8 +1,8 @@
 [package]
-name = "tokyocabinet-sys"
+name = "ohyo-tokyo"
 description = "Wrappers for Tokyocabinet key value store."
 version = "0.1.0"
-authors = ["Ewan Higgs <ewan.higgs@ugent.be>"]
+authors = ["Ewan Higgs <ewan.higgs@ugent.be>", "Victor Dudochkin <dudochkin.victor@gmail.com>"]
 license = "Apache-2.0"
 keywords = ["database", "embedded", "persistence", "keyvalue"]
 homepage = "https://github.com/ehiggs/tokyocabinet-sys"
